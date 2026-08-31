@@ -1,0 +1,10 @@
+{
+  "description": "Create simple lofi wireframes quickly to visualize ideas and streamline early-stage design for product teams and designers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
